@@ -1,7 +1,8 @@
 # Reto Tecnico Play Latam
 
 ## 1.🚀 Tecnologías utilizadas
-- React
+- Docker
+- Express
 
 ## 2. 🗝️ Modificar los archivos .env
 .env
