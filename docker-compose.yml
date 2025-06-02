@@ -1,0 +1,10 @@
+version: '3.8'
+
+services:
+  mongo:
+    build:
+      context: ./mongodb
+      dockerfile: Dockerfile
+    container_name: mongo-play
+    ports:
+      - "27017:27017"
