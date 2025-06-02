@@ -3,6 +3,7 @@
 ## 1.🚀 Tecnologías utilizadas
 - Docker
 - Express
+- MOngo
 
 ## 2. 🗝️ Modificar los archivos .env
 .env
